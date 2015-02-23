@@ -6,4 +6,4 @@ iSMreader
 make some defrences.)
 
   message 2
-I am in branch2 !
+I am in branch1 !
